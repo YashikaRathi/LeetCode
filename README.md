@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YashikaRathi/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YashikaRathi/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
