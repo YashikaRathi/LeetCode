@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/YashikaRathi/LeetCode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/YashikaRathi/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Linked List
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YashikaRathi/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/YashikaRathi/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
