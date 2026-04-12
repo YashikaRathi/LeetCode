@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/YashikaRathi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YashikaRathi/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/YashikaRathi/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YashikaRathi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YashikaRathi/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashikaRathi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YashikaRathi/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
