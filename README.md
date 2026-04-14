@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
+| [2463-minimum-total-distance-traveled](https://github.com/YashikaRathi/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YashikaRathi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashikaRathi/LeetCode/tree/master/0136-single-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YashikaRathi/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2463-minimum-total-distance-traveled](https://github.com/YashikaRathi/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YashikaRathi/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2463-minimum-total-distance-traveled](https://github.com/YashikaRathi/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
