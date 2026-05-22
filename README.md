@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashikaRathi/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YashikaRathi/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashikaRathi/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/YashikaRathi/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/YashikaRathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YashikaRathi/LeetCode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/YashikaRathi/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashikaRathi/LeetCode/tree/master/0136-single-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YashikaRathi/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
