@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/YashikaRathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YashikaRathi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YashikaRathi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/YashikaRathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YashikaRathi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/YashikaRathi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashikaRathi/LeetCode/tree/master/0136-single-number) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/YashikaRathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YashikaRathi/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bit Manipulation
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/YashikaRathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/YashikaRathi/LeetCode/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
