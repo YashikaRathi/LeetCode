@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/YashikaRathi/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/YashikaRathi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/YashikaRathi/LeetCode/tree/master/0389-find-the-difference) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YashikaRathi/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/YashikaRathi/LeetCode/tree/master/0072-edit-distance) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YashikaRathi/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/YashikaRathi/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
